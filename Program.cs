@@ -42,6 +42,7 @@ namespace _01.Methods
         {
             //Console.WriteLine("Student: {0}, Age: {1}, Grade : {2}", name, age, grade );
             Console.WriteLine($"Student: {name}, Age: {age}, Grade : {grade}");
+            // Methods mane must be selfExplainng, , what the method does !, one method shour do only one thing ! 
         }
     }
 }
