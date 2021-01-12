@@ -2,7 +2,7 @@
 
 namespace _04.Test
 {
-    class Program
+    class ReturnKeyWord
     {
         static void Main(string[] args)
         {
@@ -15,8 +15,8 @@ namespace _04.Test
         {
             number += value;
             Console.WriteLine(number);
-            return number; // keyword retunr stops method execution and gives back some result! 
-            // when we want to give back a result out function must have delivberately a type !
+            return number; // keyword return stops method execution and gives back some result! 
+            // when we want to give back a result out of function  we must have delivberately a type return keyword !
             
         }
        
